@@ -3,9 +3,9 @@
  ### 💀 [Gameplay Demo(WIP)]()
 
 <h2>Description</h2>
-An adorable, cute art, 2D-shooter game using Unity/C#. The game features:
-Collaborators(Huge kudos to): Naomi Mendoza, Raziel Mendoza, Angelica Cuadrado, Shane Duffney.
+An adorable, cute art, 2D-shooter game using Unity/C#.
 <ul>
+ <li>Collaborators(Huge kudos to): Naomi Mendoza, Raziel Mendoza, Angelica Cuadrado, Shane Duffney.</li>
  <li>3 playable levels</li>
  <li>Core game mechanics, character special guns</li>
  <li>HUD, Sound, Animation</li>
