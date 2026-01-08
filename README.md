@@ -1,6 +1,6 @@
 <h1>SQUIDZ</h1>
 
- ### 💀 [Gameplay Demo(WIP)]()
+ ### 💀 [Gameplay Demo](https://drive.google.com/file/d/1zEVXU9yik2-s1xaI5hULTnhLouyO3p08/view?usp=sharing)
 
 <h2>Description</h2>
 An adorable, cute art, 2D-shooter game using Unity/C#.
